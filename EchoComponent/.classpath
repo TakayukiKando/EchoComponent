@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/usr/JUnit/junit-4.8.2.jar" sourcepath="C:/usr/JUnit/junit-4.8.2-src.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://kentbeck.github.com/junit/javadoc/latest/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/usr/XMPP/tinder-1.2.2/tinder-1.2.2.jar" sourcepath="C:/usr/XMPP/tinder-1.2.2/src/main/java">
+		<attributes>
+			<attribute name="javadoc_location" value="http://www.igniterealtime.org/builds/tinder/docs/latest/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/usr/XMPP/whack_1_0_0/whack.jar" sourcepath="C:/usr/XMPP/whack_src_1_0_0/source/java">
+		<attributes>
+			<attribute name="javadoc_location" value="http://www.igniterealtime.org/builds/whack/docs/latest/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/usr/dom4j/dom4j-1.6.1/dom4j-1.6.1.jar" sourcepath="C:/usr/dom4j/dom4j-1.6.1/src/java">
+		<attributes>
+			<attribute name="javadoc_location" value="http://dom4j.sourceforge.net/dom4j-1.6.1/apidocs/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/usr/slf4j-1.6.4/slf4j-api-1.6.4.jar" sourcepath="C:/usr/slf4j-1.6.4/slf4j-api-1.6.4-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://www.slf4j.org/apidocs/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/usr/XmlPullParser3/xpp3-1.1.4c/xpp3-1.1.4c.jar" sourcepath="C:/usr/XmlPullParser3/xpp3-1.1.4c/src/java">
+		<attributes>
+			<attribute name="javadoc_location" value="http://www.xmlpull.org/v1/doc/api/org/xmlpull/v1/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/usr/GoogleCode/concurrentlinkedhashmap-lru-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/usr/libidn/libidn-1.24/java/libidn-1.24.jar" sourcepath="C:/usr/libidn/libidn-1.24/java">
+		<attributes>
+			<attribute name="javadoc_location" value="http://www.gnu.org/software/libidn/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/usr/commons-codec/commons-codec-1.6/commons-codec-1.6.jar" sourcepath="C:/usr/commons-codec/commons-codec-1.6/commons-codec-1.6-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/usr/commons-codec/commons-codec-1.6/apidocs/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/usr/XMPP/smack_3_2_2/smack.jar" sourcepath="C:/usr/XMPP/smack_src_3_2_2/source">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/usr/XMPP/smack_3_2_2/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/usr/XMPP/smack_3_2_2/smackx.jar" sourcepath="C:/usr/XMPP/smack_src_3_2_2/source">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/usr/XMPP/smack_3_2_2/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
